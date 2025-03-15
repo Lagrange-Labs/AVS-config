@@ -1,13 +1,3 @@
 # Lagrange AVS
 
-## Deployed Smart Contract Addresses
-
-### Holesky
-
-| Name | Proxy Address | Implementation Address |
-| ---- | ------------- | ---------------------- |
-
-### Mainnet
-
-| Name | Proxy Address | Implementation Address |
-| ---- | ------------- | ---------------------- |
+Deployed smart contracts can be found in the [docs](https://docs.lagrange.dev/state-committees/operator-guide/contract-addresses).
